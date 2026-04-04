@@ -227,6 +227,7 @@ Feel free to fork and improve 🚀
 
 
 contract address CB4EKESQDWWCN5XO4OIEYPBNRFCZXZEDAEBPDUFJOCUJLUSK6SZZ67Y2
+wallet address: GDU7OVTOCSGHDM37LXCAB33ZQARIW2VWMNMGRUTJNQ75GTXBJANAY7XE 
 https://stellar.expert/explorer/testnet/contract/CB4EKESQDWWCN5XO4OIEYPBNRFCZXZEDAEBPDUFJOCUJLUSK6SZZ67Y2
 
 <img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/85c83cd7-53db-4b22-bbf0-737630d34f8e" />
